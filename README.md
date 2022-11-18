@@ -1,0 +1,1 @@
+# native_template_recyclerview
